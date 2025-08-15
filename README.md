@@ -32,5 +32,5 @@ Based on correlation analysis and visualizations:
 - **Engine Size** – Larger engine size strongly increases price.
 - **Horsepower** – Strong positive correlation with price.
 - **Drive Wheel Type** – RWD cars tend to be more expensive.
-- **Highway MPG** – Slight negative correlation with price.
+- **highway-L/100** – Slight negative correlation with price.
 
