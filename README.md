@@ -27,7 +27,7 @@ The goal of this project is to identify key factors that affect car prices, such
 - **Correlation** – To measure the strength of relationships between variables.
 - **Box Plots** – To study price distribution across different categories.
 
-##  Key Factors Affecting Price
+## Project Insights: Factors Influencing Car Prices
 Based on correlation analysis and visualizations:
 - **Engine Size** – Larger engine size strongly increases price.
 - **Horsepower** – Strong positive correlation with price.
